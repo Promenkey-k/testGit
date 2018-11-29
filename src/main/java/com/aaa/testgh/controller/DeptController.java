@@ -1,0 +1,13 @@
+package com.aaa.testgh.controller;
+
+/**
+ * @className:DeptController
+ * @discription:
+ * @author:ProMonkey-K
+ * @creatTime:2018-11-29 09:07
+ */
+public class DeptController {
+    public static void main(String[] args) {
+        System.out.println(123);
+    }
+}
