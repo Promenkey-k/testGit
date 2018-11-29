@@ -9,6 +9,6 @@ package com.aaa.testgh.controller;
 public class DeptController {
     public static void main(String[] args) {
         System.out.println(123);
-        System.out.println("测试合并分支2222222222");
+        System.out.println("测试合并分支4444444");
     }
 }
