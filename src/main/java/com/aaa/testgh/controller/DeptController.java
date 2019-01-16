@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @RequestMapping("dept")
 public class DeptController {
+
   @RequestMapping("aaa")
   @ResponseBody
   public Object aaa(){
