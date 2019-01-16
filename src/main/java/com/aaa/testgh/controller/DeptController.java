@@ -1,5 +1,9 @@
 package com.aaa.testgh.controller;
 
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
 /**
  * @className:DeptController
  * @discription:
@@ -11,7 +15,7 @@ package com.aaa.testgh.controller;
 public class DeptController {
   @RequestMapping("aaa")
   @ResponseBody
-  public object aaa(){
+  public Object aaa(){
     return 1111;
   }
 }
